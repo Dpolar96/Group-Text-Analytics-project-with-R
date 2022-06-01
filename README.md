@@ -27,7 +27,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/Dpolar96/Group-Text-Analytics-project-with-R">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -36,10 +36,10 @@
   <p align="center">
     project_description
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Dpolar96/Group-Text-Analytics-project-with-R"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/Dpolar96/Group-Text-Analytics-project-with-R">View Demo</a>
     ·
     <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
     ·
@@ -101,8 +101,9 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
-1. Line 52 and 83 must be updated to reflect local directory.
-2. Usage of Tableau is specific to the case scenario and reflects the information obtained from the MongoDB sample based on Airbnb.
+1. Line 16 and 17 must be updated to reflect a different topic of interest and connection to a different Mongo Database cluster (optional step)
+2. Line 52 and 83 must be updated to reflect local directory.
+3. Usage of Tableau is specific to the case scenario and reflects the information obtained from the MongoDB sample based on Airbnb.
 
 ### Prerequisites
 
