@@ -27,7 +27,6 @@
 <br />
 <div align="center">
   <a href="https://github.com/Dpolar96/Group-Text-Analytics-project-with-R">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">project_title</h3>
@@ -38,11 +37,10 @@
     <a href="https://github.com/Dpolar96/Group-Text-Analytics-project-with-R"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Dpolar96/Group-Text-Analytics-project-with-R">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/Dpolar96/Group-Text-Analytics-project-with-R/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/Dpolar96/Group-Text-Analytics-project-with-R/issues">Request Feature</a>
   </p>
 </div>
 
@@ -135,6 +133,8 @@ In order to run the code code from this project the following libraries are need
 * tibble
 * stringr
 
+### Installation
+
 In case these packages are not installed, please run the following lines of code.
   ```sh
   install.packages("jsonlite")
@@ -191,10 +191,12 @@ Project Link: [https://github.com/Dpolar96/Group-Text-Analytics-project-with-R](
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
-
-* []()
-* []()
-* []()
+I thank and appreciate the help of my group members during the ellaboration of this project:
+* [Diana Aycachi](https://www.linkedin.com/in/diana-aycachi-78882480/)
+* [Allesandro Casella](https://www.linkedin.com/in/alessandro-casella-97953b197/)
+* [Kevin Farjallah](https://www.linkedin.com/in/kevin-farjallah/)
+* [Vivian Soo](https://www.linkedin.com/in/vivian-soo-8446641b7/)
+* [Madhuri Thackeray](https://www.linkedin.com/in/madhuri-thackeray-05168b14a/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -202,7 +204,7 @@ Project Link: [https://github.com/Dpolar96/Group-Text-Analytics-project-with-R](
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/Dpolar96/Group-Text-Analytics-project-with-R.svg?style=for-the-badge
 [issues-url]: https://github.com/Dpolar96/Group-Text-Analytics-project-with-R/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/diego-polar-velasquez-3bbbb9154/
