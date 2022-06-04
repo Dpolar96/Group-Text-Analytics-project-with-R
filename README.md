@@ -183,7 +183,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 Diego Polar - dpolar76@gmail.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/Dpolar96/Group-Text-Analytics-project-with-R](https://github.com/Dpolar96/Group-Text-Analytics-project-with-R)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
