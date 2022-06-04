@@ -29,10 +29,10 @@
   <a href="https://github.com/Dpolar96/Group-Text-Analytics-project-with-R">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Airbnb analysis using NLP and visualization using Tableau</h3>
 
   <p align="center">
-    project_description
+    Analysis of an Airbnb database from Mongo using R for NLP and Tableau to project these insights
     <br />
     <a href="https://github.com/Dpolar96/Group-Text-Analytics-project-with-R"><strong>Explore the docs »</strong></a>
     <br />
@@ -64,7 +64,6 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
