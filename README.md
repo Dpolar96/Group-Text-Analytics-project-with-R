@@ -63,7 +63,6 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
@@ -74,10 +73,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
-
+This is a group project, in which we first connected to a cluster of Mongo DB to access a sample of Airbnb data including the listing description, location, property type, review scores, amount of listings, # of bedrooms and bathrooms, and Superhost status. Initially R was used to connect to Mongo DB, running a script for NLP analysis and other precise analysis that couldn't be done on Tableau such as average price overall. At the same time, the initial csv extracted from the database was used to carry a visualization analysis on Tableau to visualize insights not considered on R. Finally compiling both analysis in a report included [here](https://github.com/Dpolar96/Group-Text-Analytics-project-with-R/blob/Group-Project/Report/Combined%20assessment%20report%20(1).pdf).
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -166,16 +162,6 @@ In case these packages are not installed, please run the following lines of code
   install.packages("tibble")
   install.packages("stringr")
   ```
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 <!-- CONTACT -->
 ## Contact
