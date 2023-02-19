@@ -177,7 +177,7 @@ Project Link: [https://github.com/Dpolar96/Group-Text-Analytics-project-with-R](
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 I thank and appreciate the help of my group members during the ellaboration of this project:
-* [Diana Aycachi](https://www.linkedin.com/in/diana-aycachi-78882480/)
+* [Diana Aycachi](https://www.linkedin.com/in/diaycm/)
 * [Allesandro Casella](https://www.linkedin.com/in/alessandro-casella-97953b197/)
 * [Kevin Farjallah](https://www.linkedin.com/in/kevin-farjallah/)
 * [Vivian Soo](https://www.linkedin.com/in/vivian-soo-8446641b7/)
